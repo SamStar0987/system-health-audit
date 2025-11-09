@@ -1,4 +1,8 @@
-# System Health Auto-Reporter 🖥️
+#System Health Auto-Reporter 🖥️
+
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/SamStar0987/system-health-audit)
+![GitHub top language](https://img.shields.io/github/languages/top/SamStar0987/system-health-audit)
 
 A meticulously crafted Bash script to generate comprehensive Linux system health reports automatically.  
 Perfect for those aspiring to demonstrate Linux, Bash, and automation skills in a professional IT setting.
